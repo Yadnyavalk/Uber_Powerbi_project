@@ -48,18 +48,7 @@ Other Insights:
 ---
 
 ## 🖼️ Screenshots
-![Vehicle Analysis](screenshots/vehicle_analysis.png)  
+![Overview Analysis](screenshots/overview_analysis.png)  
 ![Time Analysis](screenshots/time_analysis.png)
 
----
 
-## 🚀 How to View
-1. Download this repository.
-2. Open **Uber_Trip_Analysis.pbix** in **Power BI Desktop**.
-3. Use the filters and slicers to explore the data.
-
----
-
-## 📬 Future Ideas
-* Add real-time Uber API data for live dashboards  
-* Predict surge pricing with machine learning
