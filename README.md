@@ -1,6 +1,7 @@
 # 🚖 Uber Trip Analysis – Power BI Project
 
-![Dashboard Preview](Screenshot 2025-09-24 220414.png)
+![Dashboard Preview](Screenshot%202025-09-24%20220357.png)
+
 
 ## 📌 Project Overview
 This project analyzes **Uber trip data (June 2024)** with Microsoft Power BI.  
@@ -48,7 +49,6 @@ Other Insights:
 ---
 
 ## 🖼️ Screenshots
-![Overview Analysis](screenshots/overview_analysis.png)  
-![Time Analysis](screenshots/time_analysis.png)
-
+![Overview Analysis](Screenshot%202025-09-24%20220357.png)
+![Time Analysis](Screenshot%202025-09-24%20220414.png)
 
