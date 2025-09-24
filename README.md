@@ -49,3 +49,10 @@ Other Insights:
 ![Overview Analysis](Screenshot%202025-09-24%20220357.png)
 ![Time Analysis](Screenshot%202025-09-24%20220414.png)
 
+---
+
+## 📂 Project PDF
+For the full detailed report, view or download the PDF:
+
+[📄 Uber Trip Analysis – Full Report](https://github.com/Yadnyavalk/Uber_Powerbi_project/blob/main/uber_trip_analysis_project_pdf.pdf)
+
