@@ -1,8 +1,5 @@
 # 🚖 Uber Trip Analysis – Power BI Project
 
-![Dashboard Preview](Screenshot%202025-09-24%20220357.png)
-
-
 ## 📌 Project Overview
 This project analyzes **Uber trip data (June 2024)** with Microsoft Power BI.  
 It shows booking trends, revenue, customer behaviour, and operational performance.
