@@ -20,8 +20,8 @@ It shows booking trends, revenue, customer behaviour, and operational performanc
 | **Total Bookings** | **104,000** |
 | **Total Booking Value** | **$1.6 M** |
 | **Average Fare** | **$15** |
-| **Total Trip Distance** | **349,000 mi** |
-| **Average Distance** | **3 mi** |
+| **Total Trip Distance** | **349,000 miles** |
+| **Average Distance** | **3 miles** |
 | **Average Trip Time** | **16 min** |
 
 ### Vehicle Type Performance
