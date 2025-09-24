@@ -51,12 +51,6 @@ Other Insights:
 
 ---
 
-## 📂 Project PDF
-For the full detailed report, view or download the PDF:
-
-[📄 Uber Trip Analysis – Full Report](https://github.com/Yadnyavalk/Uber_Powerbi_project/blob/main/uber_trip_analysis_project_pdf.pdf)
-
----
 
 ## ✅ Conclusion – Observed Gaps & Recommendations
 
